@@ -8,6 +8,5 @@
 |![](img/logo3.png)| 
 |**Biosecurity Engagement Program - BEP**|
 |![w:10 left](img/logo2.png)| 
-|:-------------------------:|
 |**Health Security Partners - HSP**|
 
