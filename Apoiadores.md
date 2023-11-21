@@ -4,10 +4,10 @@
 
 |![](img/logo1.png)|
 |:----------------------:|
-| **Sociedade Brasileira de Biossegurança e Bioproteção -SB3** | 
+| **Sociedade Brasileira de Biossegurança e Bioproteção - SB3** | 
 
- ![w:750 left](https://healthsecuritypartners.org/themes/health-security-partners/images/logo.png)| 
+ ![](img/logo2.png)| 
 |:----:|
 |**Health Security Partners - HSP**|
-![w:300 left](https://www.bepstate.net/application/themes/bepstate/images/bep-logo.png)| 
-|**BEP**|
+![](img/logo3.png)| 
+|**Biosecurity Engagement Program - BEP**|
