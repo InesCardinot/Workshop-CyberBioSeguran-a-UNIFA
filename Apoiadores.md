@@ -2,7 +2,7 @@
 # **Apoiadores**
 <br>
 
-|![w:330 left](img/logo1.png)|
+|![w:330 left](img/logo4.jfif)|
 |:--------------------------:|
 | **Sociedade Brasileira de Biossegurança e Bioproteção - SB3** | 
 |![](img/logo3.png)| 
