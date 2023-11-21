@@ -5,9 +5,9 @@
 |![](img/logo1.png)|
 |:----------------------:|
 | **Sociedade Brasileira de Biossegurança e Bioproteção - SB3** | 
-
- ![](img/logo2.png)| 
+|![](img/logo3.png)| 
+|**Biosecurity Engagement Program - BEP**|
+|![](img/logo2.png)| 
 |:----:|
 |**Health Security Partners - HSP**|
-![](img/logo3.png)| 
-|**Biosecurity Engagement Program - BEP**|
+
