@@ -1,6 +1,3 @@
----
-marp: true
----
 Workshop de CyberBioSegurança para Defesa Nacional (UNIFA)
 <br>
 <p>A Formação em CyberBioSegurança aplicada a profissionais que atuam ou que irão atuar em diversos ambientes voltados aos setores biomédicos, alimentares, laboratoriais e de pesquisa, visando formar um grupo de profissionais seletos que contribuirão de forma efetiva no entendimento e divulgação deste conceito. Este grupo será composto de pesquisadores civis e militares efetivos das Forças Armadas Brasileiras e de Empresas de Pesquisa e Desenvolvimento - P&D.</p>
